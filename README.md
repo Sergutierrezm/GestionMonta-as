@@ -3,7 +3,7 @@ Gestión de Montañas en Java
 Aplicación desarrollada en Java con conexión a MySQL mediante JDBC.
 Permite gestionar un registro de montañas, consultarlas, editarlas o eliminarlas desde un menú en consola.
 
-Funcionalidades
+#Funcionalidades
 	•	Menú principal con opciones numeradas
 	•	Creación automática de la tabla Montañas
 	•	Inserción de nuevas montañas con nombre, altura, año de primera ascensión, región y país
@@ -12,14 +12,14 @@ Funcionalidades
 	•	Eliminación de una montaña o de toda la tabla
 	•	Opción de salida segura del programa
 
-Tecnologías
+#Tecnologías
 	•	Java 17
 	•	MySQL
 	•	JDBC
 	•	NetBeans
 	•	Git y GitHub
 
-Cómo ejecutar
+#Cómo ejecutar
 	1.	Clonar o descargar el proyecto
 	2.	Abrirlo en tu IDE preferido
 	3.	Configurar la conexión a MySQL en el archivo Main.java:
@@ -30,6 +30,6 @@ Cómo ejecutar
   4.	Ejecutar la clase Main.java
   5.	Seguir las opciones del menú para gestionar las montañas
 
-Autor
+#Autor
 
 Sergio Gutiérrez
