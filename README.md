@@ -6,20 +6,20 @@ Permite gestionar un registro de montañas, consultarlas, editarlas o eliminarla
 ⸻
 
 Funcionalidades
-	•	📋 Menú principal con opciones numeradas.
-	•	🏗️ Creación automática de la tabla Montañas.
-	•	➕ Inserción de nuevas montañas con:
-	•	Nombre
-	•	Altura
-	•	Año de primera ascensión
-	•	Región
-	•	País
-	•	🔍 Consulta de:
-	•	Todas las montañas registradas
-	•	Una montaña específica por nombre
-	•	✏️ Edición de los datos de una montaña existente
-	•	❌ Eliminación de una montaña o de toda la tabla
-	•	🚪 Opción de salida segura del programa
+	Menú principal con opciones numeradas.
+	Creación automática de la tabla Montañas.
+	Inserción de nuevas montañas con:
+		Nombre
+		Altura
+		Año de primera ascensión
+		Región
+		País
+	Consulta de:
+		Todas las montañas registradas
+		Una montaña específica por nombre
+	Edición de los datos de una montaña existente
+	Eliminación de una montaña o de toda la tabla
+	Opción de salida segura del programa
 
 ⸻
 
