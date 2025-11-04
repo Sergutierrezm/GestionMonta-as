@@ -4,13 +4,13 @@ Aplicación desarrollada en Java con conexión a MySQL mediante JDBC.
 Permite gestionar un registro de montañas, consultarlas, editarlas o eliminarlas desde un menú en consola.
 
 #Funcionalidades
-	-Menú principal con opciones numeradas
-	-Creación automática de la tabla Montañas
-	-Inserción de nuevas montañas con nombre, altura, año de primera ascensión, región y país
-	-Consulta de todas las montañas o búsqueda por nombre
-	-Edición de los datos de una montaña existente
-	-Eliminación de una montaña o de toda la tabla
-	-Opción de salida segura del programa
+	- Menú principal con opciones numeradas
+	- Creación automática de la tabla Montañas
+	- Inserción de nuevas montañas con nombre, altura, año de primera ascensión, región y país
+	- Consulta de todas las montañas o búsqueda por nombre
+	- Edición de los datos de una montaña existente
+	- Eliminación de una montaña o de toda la tabla
+	- Opción de salida segura del programa
 
 #Tecnologías
 	•	Java 17
